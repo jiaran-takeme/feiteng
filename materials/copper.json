@@ -1,0 +1,6 @@
+{
+    "name": "铜 (Copper)",
+    "young_modulus": 110e9,
+    "poisson_ratio": 0.34,
+    "thermal_conductivity": 401
+}

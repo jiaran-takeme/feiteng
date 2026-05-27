@@ -1,0 +1,6 @@
+{
+    "name": "硅 (Silicon)",
+    "young_modulus": 130e9,
+    "poisson_ratio": 0.28,
+    "thermal_conductivity": 148
+}
