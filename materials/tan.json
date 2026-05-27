@@ -1,0 +1,7 @@
+{
+    "name": "氮化钽 (TaN)",
+    "cte": 6,
+    "young_modulus": 250e9,
+    "poisson_ratio": 0.25,
+    "color": [0.5, 0.5, 0.5, 1.0]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "二氧化硅 (SiO₂)",
+    "cte": 0.5,
+    "young_modulus": 71e9,
+    "poisson_ratio": 0.16,
+    "color": [0.95, 0.95, 1.0, 0.7]
+}

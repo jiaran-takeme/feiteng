@@ -1,0 +1,7 @@
+{
+    "name": "钽 (Ta)",
+    "cte": 6.8,
+    "young_modulus": 186e9,
+    "poisson_ratio": 0.34,
+    "color": [0.6, 0.6, 0.6, 1.0]
+}

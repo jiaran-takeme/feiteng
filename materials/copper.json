@@ -1,6 +1,7 @@
 {
-    "name": "铜 (Copper)",
+    "name": "铜 (Cu)",
+    "cte": 17,
     "young_modulus": 110e9,
-    "poisson_ratio": 0.34,
-    "thermal_conductivity": 401
+    "poisson_ratio": 0.35,
+    "color": [0.9, 0.5, 0.2, 1.0]
 }

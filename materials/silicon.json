@@ -1,6 +1,7 @@
 {
-    "name": "硅 (Silicon)",
+    "name": "硅 (Si)",
+    "cte": 2.3,
     "young_modulus": 130e9,
     "poisson_ratio": 0.28,
-    "thermal_conductivity": 148
+    "color": [0.7, 0.7, 0.75, 0.9]
 }

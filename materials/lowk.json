@@ -1,0 +1,7 @@
+{
+    "name": "低K介质层",
+    "cte": 20,
+    "young_modulus": 9.5e9,
+    "poisson_ratio": 0.3,
+    "color": [0.8, 0.9, 0.8, 0.6]
+}
